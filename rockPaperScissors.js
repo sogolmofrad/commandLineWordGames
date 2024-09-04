@@ -1,5 +1,4 @@
 const { argv } = require("node:process");
-const { use } = require("react");
 
 const gameOptions = ["rock", "paper", "scissors"];
 const computerPlayer =
